@@ -11,6 +11,24 @@
       "nom": "Mac book Pro",
       "prix": "1500000",
       "description": "Produit Apple"
+    },
+    {
+      "id": "0e6410a4-bed1-4f5d-869f-3ffc1c6cd58d",
+      "nom": "Nouveau Produit",
+      "prix": "4500000",
+      "description": "Produit de Dior"
+    },
+    {
+      "id": "cda162c1-4bf7-48fd-938a-5edccdcb14e6",
+      "nom": "Parfume",
+      "prix": "450000",
+      "description": "Produit de luxe"
+    },
+    {
+      "id": "cff262f6-ee5e-4632-b711-8edcef847026",
+      "nom": "PS5",
+      "prix": "500000",
+      "description": "Produit de Sony"
     }
   ]
 }
