@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "c3c4799d-18f9-44d3-942e-58733ec91695",
+      "nom": "Iphone Xmas",
+      "prix": "250000",
+      "description": "Produits Apple Modifier"
+    },
+    {
+      "id": "119f62fa-9b6b-48c7-9f89-2d67177609ff",
+      "nom": "Mac book Pro",
+      "prix": "1500000",
+      "description": "Produit Apple"
+    }
+  ]
+}
